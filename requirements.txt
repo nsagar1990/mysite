@@ -19,3 +19,4 @@ Flask-Cors==3.0.10
 numpy==1.18.5
 pandas
 Unidecode==1.1.1
+mysqlclient
