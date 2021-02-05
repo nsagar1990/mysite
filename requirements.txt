@@ -1,5 +1,5 @@
 pyodbc==4.0.30
-Django==2.1.0
+Django==2.2
 django-cors-headers
 django-mssql==1.8
 dedupe==2.0.6
