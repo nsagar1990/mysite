@@ -19,3 +19,4 @@ numpy==1.18.5
 pandas
 Unidecode==1.1.1
 mysqlclient
+django-pyodbc-azure
