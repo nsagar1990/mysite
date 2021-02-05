@@ -1,5 +1,5 @@
 pyodbc==4.0.30
-Django
+Django<2.2,>=2.1.0
 django-cors-headers==3.7.0
 django-mssql==1.8
 django-pyodbc-azure==2.1.0.0
